@@ -1,0 +1,7 @@
+1. convert image to HTML
+2. put javascript validation for login
+3. create database and some user for login validation
+4. after login will go to dashboard
+
+Language
+PHP, MYSQL, HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP 4
